@@ -7,14 +7,13 @@ if( isset($_SESSION['akses']) )
 	exit();
 }
 
+$error = '';
 if( isset($_SESSION['error']) ) {
 
- 	$_SESSION['error']; 
+ 	$error = $_SESSION['error']; 
 
  	unset($_SESSION['error']);
-} else {
-    $error = '';
-}?>
+} ?>
 
 <?php echo $error;?>
 <h3>Form Login</h3>
