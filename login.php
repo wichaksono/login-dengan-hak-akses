@@ -19,9 +19,9 @@ if( isset($_SESSION['error']) ) {
 <h3>Form Login</h3>
 <form action="check-login.php" method="post">
 username : <br/>
-<input type="text" name="usernamemu" /> <br>
+<input type="text" name="username" /> <br>
 password : <br/>
-<input type="password" name="passwordmu" />
+<input type="password" name="password" />
 <br>
 <button>Login</button>
 </form>
