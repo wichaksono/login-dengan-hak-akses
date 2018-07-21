@@ -15,3 +15,6 @@ dengan konten
 dan masih banyak lagi <a href="https://www.onphpid.com/" alt="tutorial php" target="_blank" rel="dofollow">Tutorial PHP</a> dan <a href="https://www.onphpid.com/" alt="tutorial wordpress" target="_blank" rel="dofollow">tutorial wordpress</a> lainnya.
 
 Selamat Koding.
+
+#### Wancana ####
++ Pembuatan Hash sendiri untuk menconvert password agar meningkatkan keamanan login
